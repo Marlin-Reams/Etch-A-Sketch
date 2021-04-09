@@ -2,8 +2,8 @@
 
 Commands for this etch-a-sketch
 
-key="w", move_forward
-key="s", move_backward
-key="a", turn_left
-key="d", turn_right
-key="c", clear
+"w", move_forward
+"s", move_backward
+"a", turn_left
+"d", turn_right
+"c", clear
