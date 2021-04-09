@@ -1,5 +1,4 @@
 # Etch-A-Sketch
-basic etch a sketch program
 
 Commands for this etch-a-sketch
 
